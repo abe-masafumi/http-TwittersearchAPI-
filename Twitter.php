@@ -16,8 +16,8 @@ function h($str)
  **************************************************/
 
 // 設定
-$api_key = 'ROwj7bRoSdjJwiJAR6KFjf4QH';    // APIキー
-$api_secret = 'KGEyCgTRhYZUwqS4ELzY71LaGLgzRvhimzEOf3Kcqf7h9dk7JX';    // APIシークレット
+$api_key = '';    // APIキー
+$api_secret = '';    // APIシークレット
 $access_token = '';    // アクセストークン
 $access_token_secret = '';    // アクセストークンシークレット
 $request_url = 'https://api.twitter.com/1.1/search/tweets.json';    // エンドポイント
